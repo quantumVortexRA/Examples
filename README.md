@@ -1,6 +1,7 @@
 # Examples
 Example projects that consume and demonstrate [Autofac](http://autofac.org) functionality and integration.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c1cb5dbcdfdb455692f4ff61937ab2f6)](https://www.codacy.com/app/quantumvortex/Examples?utm_source=github.com&utm_medium=referral&utm_content=quantumVortexRA/Examples&utm_campaign=badger)
 [![Build status](https://ci.appveyor.com/api/projects/status/ckc94rt42bfhdt6j?svg=true)](https://ci.appveyor.com/project/Autofac/examples)
 
 ##Reading the Examples
